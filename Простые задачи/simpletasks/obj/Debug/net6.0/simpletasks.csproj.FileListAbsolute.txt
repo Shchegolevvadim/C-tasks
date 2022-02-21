@@ -1,0 +1,16 @@
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\bin\Debug\net6.0\simpletasks.exe
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\bin\Debug\net6.0\simpletasks.deps.json
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\bin\Debug\net6.0\simpletasks.runtimeconfig.json
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\bin\Debug\net6.0\simpletasks.dll
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\bin\Debug\net6.0\ref\simpletasks.dll
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\bin\Debug\net6.0\simpletasks.pdb
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.GlobalUsings.g.cs
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.csproj.AssemblyReference.cache
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.AssemblyInfoInputs.cache
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.AssemblyInfo.cs
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.dll
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\ref\simpletasks.dll
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.pdb
+C:\Users\Светлана\Desktop\Простые задачи\simpletasks\obj\Debug\net6.0\simpletasks.genruntimeconfig.cache
